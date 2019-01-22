@@ -62,4 +62,4 @@ print "||========>DDOS HIGHT<========||"
 ip = raw_input("MASUKAN IP TAGET ===> ")
 port = input("Port       ===> ")
 os.system("clear")
-os.system('python3 modules/low2.py')
+os.system('python3 low2.py')
