@@ -57,9 +57,9 @@ print """
        :hds+/-`          `-/+sdh:
          `/ymM+          oMmy/"""
 print         
-print "||========>DDOS HIGHT<========||"
+print "||========>DDOS BPC<========||"
 
 ip = raw_input("MASUKAN IP TAGET ===> ")
 port = input("Port       ===> ")
 os.system("clear")
-os.system('python3 high.py")
+os.system('python2 high.py")
